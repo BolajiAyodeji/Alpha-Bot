@@ -219,14 +219,14 @@ if($_SERVER['REQUEST_METHOD'] === "POST"){
                     <p>
                         <i class="fa fa-envelope text-primary"> </i> Sirbeejay1@gmail.com</p>
 
-                    <a href="https://github.com/iambeejayayo" style="text-decoration:none" class="fa fa-github social text-light"></a>&nbsp
+                    <a href="https://github.com/bolajiayodeji" style="text-decoration:none" class="fa fa-github social text-light"></a>&nbsp
                     <a href="https://medium.com/@BolajiAyodeji" style="text-decoration:none" class="fa fa-medium social text-light"></a>&nbsp
                     <a href="https://slack.com/hnginternship4" style="text-decoration:none" class="fa fa-slack social text-light"></a>&nbsp
-                    <a href="https://facebook.com/ayodeji.beejay" style="text-decoration:none" class="fa fa-facebook-official social text-light"></a>&nbsp
-                    <a href="https://instagram.com/iambeejayayo" style="text-decoration:none" class="fa fa-instagram social text-light"></a>&nbsp
-                    <a href="https://twitter.com/iambeejayayo" style="text-decoration:none" class="fa fa-twitter social text-light"></a>&nbsp
-                    <a href="https://linkedin.com/in/iambeejayayo" style="text-decoration:none" class="fa fa-linkedin social text-light"></a>&nbsp
-                    <a href="https://whatsapp.com/08109445504" style="text-decoration:none" class="fa fa-whatsapp social text-light"></a>&nbsp
+                    <a href="https://facebook.com/iambolajiayo" style="text-decoration:none" class="fa fa-facebook-official social text-light"></a>&nbsp
+                    <a href="https://instagram.com/iambolajiayo" style="text-decoration:none" class="fa fa-instagram social text-light"></a>&nbsp
+                    <a href="https://twitter.com/iambolajiayo" style="text-decoration:none" class="fa fa-twitter social text-light"></a>&nbsp
+                    <a href="https://linkedin.com/in/iambolajiayo" style="text-decoration:none" class="fa fa-linkedin social text-light"></a>&nbsp
+                    <a href="https://whatsapp.com/+2348109445504" style="text-decoration:none" class="fa fa-whatsapp social text-light"></a>&nbsp
                     <br />
                     <br />
                     <br />
